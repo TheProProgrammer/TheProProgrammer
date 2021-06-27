@@ -2,3 +2,4 @@
 - 👀 I’m currently a self taught android developer, fascinated by anything tech.
 - 🌱 I’m currently studying in 12th grade
 - 📫 You can reach out to me on my facebook page: https://www.facebook.com/thepprogrammer
+- 👨‍💻 You can check out my apps ont he playstore: https://play.google.com/store/apps/dev?id=4881597741767615327 
