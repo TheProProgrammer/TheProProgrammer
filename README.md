@@ -1,0 +1,4 @@
+- 👋 Hi, Abdullah Asim here.
+- 👀 I’m currently a self taught android developer, fascinated by anything tech.
+- 🌱 I’m currently studying in 12th grade
+- 📫 You can reach out to me on my facebook page: https://www.facebook.com/thepprogrammer
