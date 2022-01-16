@@ -1,5 +1,5 @@
 - 👋 Hi, Abdullah Asim here.
-- 👀 I’m currently a self taught android developer, fascinated by anything tech.
+- 👀 I’m currently a self taught Android Developer and Unity Game Developer, fascinated by anything tech.
 - 🌱 I’m a 1st Semester Student at CUI, Islamabad studying Bachelor's in Computer Science.
 - 📫 You can reach out to me on my facebook page: https://www.facebook.com/thepprogrammer
 - 👨‍💻 You can check out my apps on the Google Playstore: https://play.google.com/store/apps/dev?id=4881597741767615327 
