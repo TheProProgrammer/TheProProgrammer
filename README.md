@@ -1,5 +1,5 @@
 <h1 align="center">while(!dead){code();}</h1>
-<h3 align="center">"If only I was as good at solving my life's problems as I am at solving these programming problems."</h3>
+<h3 align="center">If only I was as good at solving my life's problems as I am at solving these programming problems.</h3>
 
 - 👋 Hi, Abdullah Asim here.
 - 👀 Ain't gonna flex or anything cuz I’m just a lil self taught moderately experienced Native Android Developer, Unity Game Developer (3D, 2D and VR) and an aspiring Flutter Developer, fascinated by everything tech.
@@ -9,35 +9,43 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/theproprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theproprogrammer" height="30" width="40" /></a>
-<a href="https://twitter.com/ThePProgrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThePProgrammer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-asim-2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-asim-2004" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ThePProgrammer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ThePProgrammer" height="30" width="40" /></a>
+<a href="http://instagram.com/theproprogrammer"> 
+     <img alt="Instgram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="http://twitter.com/thepprogrammer"> 
+     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="http://linkedin.com/in/abdullah-asim-2004"> 
+     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0E76A8.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="http://instagram.com/theproprogrammer"> 
+     <img alt="Instgram" src="https://img.shields.io/badge/facebook-3B5988.svg?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 </p>
 
 <h3 align="center">Tools and Frameworks:</h3>
 <p align="center">
 
 <a href="#" target="_blank"> 
-     <img alt="UNITY3D" src="https://img.shields.io/badge/UNITY3D-%23646CFF.svg?style=for-the-badge&logo=unity">
+     <img alt="UNITY3D" src="https://img.shields.io/badge/UNITY3D-808080.svg?style=for-the-badge&logo=unity">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="BLENDER 3D" src="https://img.shields.io/badge/BLENDER 3D-%23646CFF.svg?style=for-the-badge&logo=blender">
+     <img alt="BLENDER 3D" src="https://img.shields.io/badge/BLENDER 3D-FF5733.svg?style=for-the-badge&logo=blender&logoColor=white">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="UNREAL ENGINE" src="https://img.shields.io/badge/UNREAL ENGINE-%23646CFF.svg?style=for-the-badge&logo=unrealengine">
+     <img alt="UNREAL ENGINE" src="https://img.shields.io/badge/UNREAL ENGINE-242526.svg?style=for-the-badge&logo=unrealengine">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="ANDROID STUDIO" src="https://img.shields.io/badge/ANDROID STUDIO-%23646CFF.svg?style=for-the-badge&logo=android">
+     <img alt="ANDROID STUDIO" src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="FLUTTER" src="https://img.shields.io/badge/FLUTTER-%23646CFF.svg?style=for-the-badge&logo=flutter">
+     <img alt="FLUTTER" src="https://img.shields.io/badge/FLUTTER-42A5F5.svg?style=for-the-badge&logo=flutter">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="FIREBASE" src="https://img.shields.io/badge/FIREBASE-%23646CFF.svg?style=for-the-badge&logo=firebase">
+     <img alt="FIREBASE" src="https://img.shields.io/badge/FIREBASE-FFFF00.svg?style=for-the-badge&logo=firebase&logoColor=black">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="PLAY APIs" src="https://img.shields.io/badge/PLAYSTORE APIS-%23646CFF.svg?style=for-the-badge&logo=googleplay">
+     <img alt="PLAY APIs" src="https://img.shields.io/badge/PLAYSTORE APIS-008080.svg?style=for-the-badge&logo=googleplay">
 </a>
 </p>
 
@@ -71,19 +79,19 @@
 <h3 align="center">IDEs:</h3>
 <p align="center">
 <a href="#" target="_blank"> 
-     <img alt="VISUAL STUDIO" src="https://img.shields.io/badge/VISUAL STUDIO-%23646CFF.svg?style=for-the-badge&logo=visualstudio">
+     <img alt="VISUAL STUDIO" src="https://img.shields.io/badge/VISUAL STUDIO-8E44AD.svg?style=for-the-badge&logo=visualstudio">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="JETBRAINS RIDER" src="https://img.shields.io/badge/RIDER-%23646CFF.svg?style=for-the-badge&logo=rider">
+     <img alt="JETBRAINS RIDER" src="https://img.shields.io/badge/RIDER-800000.svg?style=for-the-badge&logo=rider">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="INTELLIJ" src="https://img.shields.io/badge/INTELLIJ-%23646CFF.svg?style=for-the-badge&logo=intellijidea">
+     <img alt="INTELLIJ" src="https://img.shields.io/badge/INTELLIJ-202A44.svg?style=for-the-badge&logo=intellijidea">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="PYCHARM" src="https://img.shields.io/badge/PYCHARM-%23646CFF.svg?style=for-the-badge&logo=pycharm">
+     <img alt="PYCHARM" src="https://img.shields.io/badge/PYCHARM-21D789.svg?style=for-the-badge&logo=pycharm&logoColor=black">
 </a>
 <a href="#" target="_blank"> 
-     <img alt="NOTEPAD" src="https://img.shields.io/badge/NOTEPAD-%23646CFF.svg?style=for-the-badge&logo=">
+     <img alt="NOTEPAD" src="https://img.shields.io/badge/NOTEPAD-ADD8E6.svg?style=for-the-badge&logo=">
 </a>
  </p>
 
