@@ -1,7 +1,7 @@
 <h1 align="center">while(!dead){code();}</h1>
 <h3 align="center">If only I was as good at solving my life's problems as I am at solving these programming problems.</h3>
 
-<img align="right" alt="IMG" src="coder.jpg" width="500" height="320"/>
+<img align="right" alt="IMG" src="coder.jpg" width="500" height="353"/>
 
 - 👋 Hi, Abdullah Asim here.
 - 👀 Ain't gonna flex or anything cuz I’m just a lil self taught moderately experienced Native Android Developer, Unity Game Developer (3D, 2D and VR) and an aspiring Flutter Developer, fascinated by everything tech.
