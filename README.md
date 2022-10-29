@@ -9,6 +9,8 @@
 - 👨‍💻 You can check out my apps on the Google Playstore: **<a href="bit.ly/PlaystoreProfile" target="blank">bit.ly/PlaystoreProfile</a>**
 - 📫 Reach out to me at: **<a href="abdullah.asim.0807@gmail.com" target="asf">abdullah.asim.0807@gmail.com</a>** (Please do hmu, I'm lonely asf :/)
 
+<br></br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="http://instagram.com/theproprogrammer"> 
