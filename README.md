@@ -26,6 +26,9 @@
 <a href="http://instagram.com/theproprogrammer"> 
      <img alt="Instgram" src="https://img.shields.io/badge/facebook-3B5988.svg?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+     <a href="https://stackoverflow.com/users/9235642/the-pro-programmer"> 
+     <img alt="Stack" src="https://img.shields.io/badge/stack overflow-ef8236.svg?style=for-the-badge&logo=stackoverflow&logoColor=white">
+</a>
 </p>
 
 <h3 align="center">🛠 Tools and Frameworks:</h3>
