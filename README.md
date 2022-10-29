@@ -1,6 +1,8 @@
 <h1 align="center">while(!dead){code();}</h1>
 <h3 align="center">If only I was as good at solving my life's problems as I am at solving these programming problems.</h3>
 
+<img align="right" alt="IMG" src="coder.jpg" width="500" height="320"/>
+
 - 👋 Hi, Abdullah Asim here.
 - 👀 Ain't gonna flex or anything cuz I’m just a lil self taught moderately experienced Native Android Developer, Unity Game Developer (3D, 2D and VR) and an aspiring Flutter Developer, fascinated by everything tech.
 - 🌱 I’m a Sophomore at CUI-Islamabad studying Bachelor's in Computer Science.
@@ -23,7 +25,7 @@
 </a>
 </p>
 
-<h3 align="center">Tools and Frameworks:</h3>
+<h3 align="center">🛠 Tools and Frameworks:</h3>
 <p align="center">
 
 <a href="#" target="_blank"> 
