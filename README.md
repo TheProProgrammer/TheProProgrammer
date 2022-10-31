@@ -4,10 +4,15 @@
 <img align="right" alt="IMG" src="coder.jpg" width="500" height="353"/>
 
 - 👋 Hi, Abdullah Asim here.
+
 - 👀 Ain't gonna flex or anything cuz I’m just a lil self taught moderately experienced Native Android Developer, Unity Game Developer (3D, 2D and VR) and an aspiring Flutter Developer, fascinated by everything tech.
+
 - 🌱 I’m a Sophomore at CUI-Islamabad studying Bachelor's in Computer Science.
+
 - 👨‍💻 You can check out my apps on the Google Playstore: **<a href="bit.ly/PlaystoreProfile" target="blank">bit.ly/PlaystoreProfile</a>**
+
 - 📫 Reach out to me at: **<a href="abdullah.asim.0807@gmail.com" target="asf">abdullah.asim.0807@gmail.com</a>** (Please do hmu, I'm lonely asf :/)
+
 - 🎮 F1-2018 & Minecraft 
 
 <br></br>
