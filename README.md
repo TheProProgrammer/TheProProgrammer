@@ -1,5 +1,5 @@
 <h1 align="center">while(!dead){code();}</h1>
-<h3 align="center"><i>"If only I was as good at solving my life's problems as I am at solving these programming problems."</i></h3>
+<h3 align="center"><i>"Coding through life's problems."</i></h3>
 
 <img align="right" alt="IMG" src="coder.jpg" width="500" height="353"/>
 
