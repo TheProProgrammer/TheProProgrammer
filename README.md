@@ -5,7 +5,7 @@
 
 - 👋 Hi, Abdullah Asim here.
 
-- 👀 Ain't gonna flex or anything cuz I’m just a lil self taught moderately experienced Native Android Developer, Unity Game Developer (3D, 2D and VR) and an aspiring Flutter Developer, fascinated by everything tech.
+- 👀 Ain't gonna flex or anything but I’m just a lil self taught moderately experienced Native Android Developer, Unity Game Developer (3D, 2D and VR) and an aspiring Flutter Developer, fascinated by everything tech.
 
 - 🌱 I’m a Sophomore at CUI-Islamabad doing my Bachelor's in Computer Science.
 
