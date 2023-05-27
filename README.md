@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me at: **<a href="abdullah.asim.0807@gmail.com" target="asf">abdullah.asim.0807@gmail.com</a>** (Please do hmu, I'm lonely asf :/)
 
-- 🎮 F1-2018, Counter Strike, Grand Theft Auto V & Minecraft 
+- 🎮 F1-2018, Assetto Corsa Competizione, Counter Strike, Grand Theft Auto V & Minecraft 
 
 <br></br>
 
