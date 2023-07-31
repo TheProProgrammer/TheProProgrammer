@@ -28,12 +28,11 @@
 <a href="http://linkedin.com/in/abdullah-asim-2004"> 
      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0E76A8.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://discord.com/users/1134147456964239584"> 
+     <img alt="Discord" src="https://img.shields.io/badge/discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 <a href="http://instagram.com/theproprogrammer"> 
      <img alt="Instgram" src="https://img.shields.io/badge/facebook-3B5988.svg?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-     <a href="https://stackoverflow.com/users/9235642/the-pro-programmer"> 
-     <img alt="Stack" src="https://img.shields.io/badge/stack overflow-ef8236.svg?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</a>
 </p>
 
 <h3 align="center">🛠 Tools and Frameworks:</h3>
