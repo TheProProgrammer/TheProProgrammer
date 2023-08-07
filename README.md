@@ -110,7 +110,7 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats-61j4pdbzy-theproprogrammer.vercel.app/api/top-langs?username=theproprogrammer&langs_count=10&hide=html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="theproprogrammer" /></p>
+<p><img align="left" src="https://github-readme-stats-pearl-theta-91.vercel.app/api/top-langs?username=theproprogrammer&langs_count=10&hide=html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="theproprogrammer" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-61j4pdbzy-theproprogrammer.vercel.app/api?username=theproprogrammer&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="theproprogrammer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-pearl-theta-91.vercel.app/api?username=theproprogrammer&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="theproprogrammer" /></p>
