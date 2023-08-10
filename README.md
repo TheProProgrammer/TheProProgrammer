@@ -1,4 +1,4 @@
-<h1 align="center">while(!dead){code();}</h1>
+<h1 align="center">Code • Believe</h1>
 <h3 align="center"><i>"Coding through life's problems."</i></h3>
 
 <img align="right" alt="IMG" src="coder.jpg" width="500" height="353"/>
