@@ -7,13 +7,13 @@
 
 - 👀 Ain't gonna flex or anything but I’m just a lil self taught moderately experienced Native Android Developer, Unity Game Developer (3D, 2D and VR) and an aspiring Flutter Developer, fascinated by everything tech.
 
-- 🌱 I’m a 5th semester student at CUI-Islamabad doing my Bachelor's in Computer Science.
+- 🌱 I’m a 6th-semester student at CUI-Islamabad doing my Bachelor's in Computer Science.
 
 - 👨‍💻 You can check out my apps on the Google Playstore: **<a href="bit.ly/PlaystoreProfile" target="blank">bit.ly/PlaystoreProfile</a>**
 
 - 📫 Reach out to me at: **<a href="abdullah.asim.0807@gmail.com" target="asf">abdullah.asim.0807@gmail.com</a>** (Please do hmu, I'm lonely asf :/)
 
-- 🎮 F1-2018, Assetto Corsa Competizione, Counter Strike, Grand Theft Auto V & Minecraft 
+- 🎮 F1-2020, Assetto Corsa Competizione, Counter Strike, Grand Theft Auto V & Minecraft 
 
 <br></br>
 
