@@ -117,7 +117,6 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats-pearl-theta-91.vercel.app/api/top-langs?username=theproprogrammer&theme=github_dark&show_icons=true&locale=en&layout=pie" alt="theproprogrammer" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-pearl-theta-91.vercel.app/api?username=theproprogrammer&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="theproprogrammer" /></p>
+<p><img align="left" src="https://github-readme-stats-pearl-theta-91.vercel.app/api/top-langs?username=theproprogrammer&theme=tokyonight&layout=compact&show_icons=true&locale=en&&hide=GLSL,ShaderLab,ASP.NET,HLSL" alt="theproprogrammer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-pearl-theta-91.vercel.app/api?username=theproprogrammer&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="theproprogrammer" /></p>
+<img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheProProgrammer&theme=tokyonight">
