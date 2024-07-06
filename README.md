@@ -51,6 +51,12 @@
      <img alt="ANDROID STUDIO" src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
 </a>
 <a href="#" target="_blank"> 
+     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-0a6ed1.svg?style=for-the-badge&logo=react&logoColor=white">
+</a>
+<a href="#" target="_blank"> 
+     <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-37475A.svg?style=for-the-badge&logo=amazon&logoColor=white">
+</a>
+<a href="#" target="_blank"> 
      <img alt="FLUTTER" src="https://img.shields.io/badge/FLUTTER-42A5F5.svg?style=for-the-badge&logo=flutter">
 </a>
 <a href="#" target="_blank"> 
