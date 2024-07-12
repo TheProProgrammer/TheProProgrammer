@@ -9,7 +9,7 @@
 
 - 🌱 I’m a 6th-semester student at CUI-Islamabad doing my Bachelor's in Computer Science.
 
-- 👨‍💻 You can check out my apps on the Google Playstore: **<a href="bit.ly/PlaystoreProfile" target="blank">bit.ly/PlaystoreProfile</a>**
+- 👨‍💻 You can check out my apps on the Google Playstore: **<a href="http://bit.ly/PlaystoreProfile" target="blank">bit.ly/PlaystoreProfile</a>**
 
 - 📫 Reach out to me at: **<a href="abdullah.asim.0807@gmail.com" target="asf">abdullah.asim.0807@gmail.com</a>** (Please do hmu, I'm lonely asf :/)
 
